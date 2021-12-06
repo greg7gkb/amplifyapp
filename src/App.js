@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './fam.jpg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload, dummy!
+          Hey guys, welcome to my channel!
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React for idiots
+          Created using React
         </a>
       </header>
     </div>
